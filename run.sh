@@ -5,4 +5,3 @@ echo "Running on: $(hostname)"
 echo "Executed by: $(whoami)"
 
 
-add initial bash script
